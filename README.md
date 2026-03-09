@@ -163,3 +163,69 @@ CNN achieved the **best performance** by learning spectral patterns directly fro
 - Matplotlib
 - Seaborn
 
+
+---
+
+## How to Run the Project
+
+### 1. Install dependencies
+pip install numpy pandas scikit-learn tensorflow scipy matplotlib seaborn librosa
+
+---
+
+### 2. Prepare Dataset
+
+Place the dataset zip file:
+Dataset_sdcs.zip
+
+in the working directory.
+
+---
+
+### 3. Run preprocessing and training
+python Python_Code.py
+
+This will:
+
+- Extract dataset
+- Preprocess features
+- Apply PCA
+- Train models
+- Evaluate results
+
+---
+
+## Results
+
+The CNN model demonstrated the **highest classification accuracy** by learning spectral features automatically.
+
+The system proves that **low-cost SDR hardware combined with machine learning can effectively classify real radio signals**.
+
+---
+
+## Future Work
+
+Future improvements may include:
+
+- Classification of additional signals (ADS-B, LTE, WiFi)
+- Real-time signal classification
+- End-to-end deep learning using raw IQ samples
+- Deployment on embedded SDR platforms (Jetson / Raspberry Pi)
+- Robust models for noisy RF environments
+
+---
+
+## References
+
+Key references used in this project include:
+
+- Chen et al. – SigNet Deep Learning Framework for Radio Signals
+- Scholl – Deep Learning for HF Signal Classification
+- Swinney – ML for Discrete Frequency Signal Classification
+- Xiong et al. – LinksIQ Modulation Recognition
+
+---
+
+## License
+
+This project is for academic and educational purposes.
