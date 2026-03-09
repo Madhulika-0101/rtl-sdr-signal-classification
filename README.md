@@ -175,10 +175,7 @@ pip install numpy pandas scikit-learn tensorflow scipy matplotlib seaborn libros
 
 ### 2. Prepare Dataset
 
-Place the dataset zip file:
-Dataset_sdcs.zip
-
-in the working directory.
+Place the dataset zip file in the working directory.
 
 ---
 
