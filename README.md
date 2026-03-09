@@ -13,18 +13,7 @@ The three signal types used in this project are:
 - FM Broadcast Radio
 - VHF Airband Voice
 
-The project demonstrates how **signal processing, feature engineering, and machine learning** can be combined to build an intelligent spectrum sensing system.
-
----
-
-## Authors
-- S Madhulika
-- Asmitha Kethireddy  
-- Keerthi Kodali  
-- Nithya R  
-
-Amrita Vishwa Vidyapeetham  
-B.Tech Artificial Intelligence and Data Science
+The project demonstrates how **signal processing, feature engineering, and machine learning** can be combined to build an intelligent spectrum sensing system. 
 
 ---
 
